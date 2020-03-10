@@ -1,0 +1,113 @@
+/* Margin Atas */
+
+.marginator {
+  margin-top: 50px;
+}
+
+.marginatorer {
+  margin-top: 50px;
+}
+
+
+.margintas {
+  margin-top: 10px;
+}
+
+
+/* ================================================= */
+
+
+/* Margin Kiri */
+
+.kanan {
+  margin-left: 25%;
+}
+
+.slight-r {
+  margin-left: 50% !important;
+}
+
+
+.tengah {
+  margin-left: 30%;
+}
+
+/* ====================================================== */
+
+
+/* Margin Kanan */
+
+.kekanan {
+  margin-right: 15px;
+}
+
+
+.mj {
+  margin-right: 20px;
+}
+
+
+.sedikit-k {
+  margin-right: 28px;
+}
+
+
+
+.righty {
+  margin-right: 35px;
+}
+
+/* ============================================================== */
+
+
+/* Warna */
+
+.silver {
+  color: #cccccc !important;
+}
+
+
+
+/* =================================================================== */
+
+
+/* Padding */
+
+.geser {
+  padding-right: 100px;
+}
+
+
+
+.padder {
+  padding-top: 5%;
+}
+
+
+
+/* =================================================================== */
+
+
+
+/* Other */
+
+.footer {
+  background-color: #000033 !important;
+  color: #FFFFFF;
+  padding-top: 10%;
+  margin-top: 10%;
+}
+
+/* =================================================================== */
+
+.putih {
+  color: #FFFFFF !important;
+}
+
+.hijau {
+  color: #003000 !important;
+}
+
+/* .bawahan {
+  margin-bottom: 100px;
+} */
